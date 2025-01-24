@@ -18,3 +18,31 @@ This project involves scraping cryptocurrency data from Yahoo Finance, performin
 
 ---
 
+### 2. **Data Cleaning and Transformation**
+- **Tools Used**: Python, Pandas
+- **Description**: The scraped data is cleaned and transformed to ensure it is in a usable format for analysis. This includes converting volume and market cap data into numeric values.
+- **Key Features**:
+  - Converts volume and market cap data from strings to numeric values.
+  - Handles missing or inconsistent data.
+
+---
+
+### 3. **Data Analysis**
+- **Tools Used**: Python, Pandas
+- **Description**: The cleaned data is analyzed to extract meaningful insights. This includes calculating price change statistics, market cap weighting, and other relevant metrics.
+- **Key Features**:
+  - Calculates price change statistics.
+  - Computes market cap weighting for each cryptocurrency.
+
+---
+
+### 4. **Data Visualization with Matplotlib**
+- **Tools Used**: Matplotlib
+- **Description**: The analyzed data is visualized using **Matplotlib** to create static charts and graphs. These visualizations provide insights into cryptocurrency trends, market performance, and other key metrics.
+- **Key Features**:
+  - Line charts for price trends over time.
+  - Bar charts for market cap distribution.
+  - Scatter plots for volume vs. price changes.
+  - Histograms for price change distributions.
+
+---
