@@ -6,3 +6,15 @@ This project involves scraping cryptocurrency data from Yahoo Finance, performin
 
 ---
 
+## Project Components
+
+### 1. **Data Scraping**
+- **Tools Used**: Python, BeautifulSoup, Requests, Pandas
+- **Description**: The project starts with scraping cryptocurrency data from Yahoo Finance. The data includes various metrics such as symbol, name, price, change, market cap, volume, and circulating supply.
+- **Key Features**:
+  - Checks Yahoo Finance's `robots.txt` to ensure scraping is allowed.
+  - Scrapes data from multiple pages to gather a comprehensive dataset.
+  - Stores the scraped data in a Pandas DataFrame for further analysis.
+
+---
+
