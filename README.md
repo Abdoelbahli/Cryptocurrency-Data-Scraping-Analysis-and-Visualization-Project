@@ -1,1 +1,2 @@
-# Cryptocurrency-Data-Scraping-Analysis-and-Visualization-Project
+# Cryptocurrency Data Scraping, Analysis, and Visualization Project
+
