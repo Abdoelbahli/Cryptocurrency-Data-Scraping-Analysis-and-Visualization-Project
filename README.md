@@ -47,3 +47,12 @@ This project involves scraping cryptocurrency data from Yahoo Finance, performin
 
 ---
 
+### 5. **Power BI Dashboard**
+- **Tools Used**: Power BI
+- **Description**: The analyzed data is also visualized using **Power BI** to create interactive dashboards. These dashboards provide dynamic insights into cryptocurrency trends, market performance, and other key metrics.
+- **Key Features**:
+  - Interactive visualizations for price trends, market cap distribution, and volume analysis.
+  - Filters and slicers for dynamic data exploration.
+
+---
+
