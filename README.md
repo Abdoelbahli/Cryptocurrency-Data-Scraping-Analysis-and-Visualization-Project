@@ -46,3 +46,4 @@ This project involves scraping cryptocurrency data from Yahoo Finance, performin
   - Histograms for price change distributions.
 
 ---
+
